@@ -43,4 +43,4 @@ npm test
 
 ## Important demo limitations
 
-This project is a frontend demonstration. Cart, favourites, theme, and catalogue changes are stored in the browser; they are not synced to a server. Checkout does not process payments, and the owner dashboard is not protected by production authentication. Verify product specifications, pricing, delivery information, and policies before using the site commercially.
+This project is a frontend demonstration. Cart, favourites, theme, and catalogue changes are stored in the browser; they are not synced to a server. Checkout does not process payments, and the owner dashboard is not protected by production authentication. 
